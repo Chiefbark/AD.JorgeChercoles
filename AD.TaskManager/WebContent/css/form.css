@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+#formContainer {
+	position: absolute;
+	top: 0;
+	width: 100%;
+	min-height: 100%;
+	background-color: #00000055;
+	text-align: center;
+}
+
+#formContainer>div {
+	background-color: white;
+	margin: 20px 0;
+	text-align: left;
+}
